@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Pyhton, MS SQL, Javascript**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericyan23&layout=compact)](https://github.com/github.com/Ericyan23)
+[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=ericyan23&layout=compact)](https://github.com/github.com/Ericyan23)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
